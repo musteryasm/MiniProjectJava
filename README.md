@@ -2,5 +2,5 @@
 Minigames platform with chatting feature
 
 Screenshots : 
-<img>1.JPG</img>
-<img>2.png</img>
+<img>https://github.com/musteryasm/MiniProjectJava/blob/main/1.JPG</img>
+<img>https://github.com/musteryasm/MiniProjectJava/blob/main/2.png</img>
