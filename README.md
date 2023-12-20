@@ -2,4 +2,4 @@
 Minigames platform with chatting feature
 
 
-<img>1.PNG</img>
+<img src = "./">1.PNG</img>
